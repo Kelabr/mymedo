@@ -12,7 +12,7 @@ function Newsletter(){
                 height={150}
                 alt="ola"
                 />
-            <h1 className="text-2xl text-zinc-50 font-medium mt-5 max-sm:text-md text-center ">Receba histórias de arrepiar toda ultima sexta-feira </h1>
+            <h1 className="text-2xl text-zinc-50 font-medium mt-5 max-sm:text-md text-center ">Receba histórias de arrepiar toda última sexta-feira do mês </h1>
             <p className="italic text-zinc-50 sm:text-sm ">Só não se traumatize!! </p>
             <form className="w-1/4 max-sm:w-3/4  max-md:w-3/4 max-lg:w-2/4">
                 <input type="email" className="rounded-lg mt-5 p-2 w-full focus:outline-none  " placeholder="Coloque seu e-mail..."/>
